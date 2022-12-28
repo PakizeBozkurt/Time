@@ -1,0 +1,24 @@
+.time {
+  margin: auto;
+  color: white;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(143, 106, 137);
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.get {
+  background-color: #229513;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  padding: 2px 5px;
+  cursor: pointer;
+  border-radius: 10px;
+  font-weight: 600;
+}
